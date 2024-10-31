@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySecondTetsAppSpringBoot/MySecondTetsAppSpringBoot.iml" filepath="$PROJECT_DIR$/MySecondTetsAppSpringBoot/MySecondTetsAppSpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot.iml" />
     </modules>
   </component>
